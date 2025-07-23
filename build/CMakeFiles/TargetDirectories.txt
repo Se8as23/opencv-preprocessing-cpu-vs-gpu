@@ -1,0 +1,3 @@
+/home/se8as23/Escritorio/Universidad/p66/VisionPorComputador/ClasificacionObjetos/preprocesamiento/opencv-preprocessing-cpu-vs-gpu/build/CMakeFiles/OpenCV_Preprocessing_CPU_vs_GPU.dir
+/home/se8as23/Escritorio/Universidad/p66/VisionPorComputador/ClasificacionObjetos/preprocesamiento/opencv-preprocessing-cpu-vs-gpu/build/CMakeFiles/edit_cache.dir
+/home/se8as23/Escritorio/Universidad/p66/VisionPorComputador/ClasificacionObjetos/preprocesamiento/opencv-preprocessing-cpu-vs-gpu/build/CMakeFiles/rebuild_cache.dir
